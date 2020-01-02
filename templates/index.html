@@ -1,0 +1,148 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="{{ url_for('static', filename='img/favicon.ico') }}">
+
+
+    <!-- Bootstrap core CSS -->
+    <link  href="{{ url_for('static', filename='css/bootstrap.min.css') }}" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="{{ url_for('static', filename='css/form-validation.css') }}" rel="stylesheet">
+
+    <script type="text/javascript" src="{{ url_for('static', filename='js/jquery-3.4.1.js') }}"> </script>
+  </head>
+
+
+  <body class="bg-light">
+
+  <form action="/" method="post" enctype="multipart/form-data">
+    <div class="container">
+      <div class="py-5 text-center">
+        <img class="d-block mx-auto mb-4" src="https://getbootstrap.com/assets/brand/bootstrap-solid.svg" alt="" width="72" height="72">
+
+        <h2>Araç Rotalama Programı v1.0</h2>
+	{% with messages = get_flashed_messages() %}
+
+	  {% if messages %}
+         <p class="alert alert-danger" id="errorPar">
+		{% for message in messages %}
+		 {{ message }}
+		{% endfor %}
+        </p>
+	  {% endif %}
+	{% endwith %}
+      </div>
+
+      <div class="row">
+        <div class="col-md-12 text-center">
+          <h4 class="mb-3">Dosya Yüklemeleri</h4>
+
+          <form class="needs-validation" novalidate>
+              <div class="mb-3">
+                <label for="dosya_koordinat">Koordinat Dosyası</label>
+                <input type="file" class="form-control" name="dosya_koordinat" id="dosya_koordinat"  required>
+                <div class="invalid-feedback">
+                  Koordinat dosyası gerekli!
+                </div>
+              </div>
+
+              <div class="mb-3">
+                <label for="dosya_filo">Filo Dosyası</label>
+                <input type="file" class="form-control" name="dosya_filo" id="dosya_filo"  required>
+                <div class="invalid-feedback">
+                  Filo dosyası gerekli!
+                </div>
+              </div>
+
+            <div class="row">
+
+
+              <div class="col-md-3 mb-3">
+                <label for="tbAlfa">Alfa</label>
+                <input type="text" class="form-control" id="tbAlfa" name="tbAlfa" pattern="^\d*(\.\d{0,2})?$" placeholder="" required>
+                <div class="invalid-feedback">
+                  Alfa değeri gerekli !
+                </div>
+              </div>
+
+              <div class="col-md-3 mb-3">
+                <label for="tbBeta">Beta</label>
+                <input type="text" class="form-control" id="tbBeta" name="tbBeta" pattern="^\d*(\.\d{0,2})?$"  placeholder="" required>
+                <div class="invalid-feedback">
+                  Beta değeri gerekli !
+                </div>
+              </div>
+
+
+              <div class="col-md-3 mb-3">
+                <label for="tbOmega">Omega</label>
+                <input type="text" class="form-control" id="tbOmega" name="tbOmega" pattern="^\d*(\.\d{0,2})?$" placeholder="" required>
+                <div class="invalid-feedback">
+                  Omega değeri gerekli !
+                </div>
+              </div>
+
+              <div class="col-md-3 mb-3">
+                <label for="tbStopVal">Durma Değeri</label>
+                <input type="text" class="form-control" id="tbStopVal" name="tbStopVal" pattern="^\d*(\.\d{0,2})?$" placeholder="" required>
+                <div class="invalid-feedback">
+                  Durma değeri gerekli!
+                </div>
+              </div>
+
+            </div>
+                    <div class="row">
+
+
+              <div class="col-md-3 mb-3">
+                <label for="tbKontrol">En yakın kontrol</label>
+                <input type="text" class="form-control" id="tbKontrol" name="tbKontrol" pattern="^\d*(\.\d{0,2})?$" placeholder="" required>
+                <div class="invalid-feedback">
+                  En yakın kontrol değeri gerekli!
+                </div>
+              </div>
+
+              <div class="col-md-3 mb-3">
+                <label for="tbIterasyon">İterasyon Sayısı</label>
+                <input type="text" class="form-control" id="tbIterasyon" name="tbIterasyon" pattern="^\d*(\.\d{0,2})?$"  placeholder="" required>
+                <div class="invalid-feedback">
+                  İterasyon sayısı gerekli !
+                </div>
+              </div>
+
+
+            </div>
+            <hr class="mb-4">
+
+
+            <button class="btn btn-primary btn-lg btn-block" type="submit">Başla</button>
+          </form>
+        </div>
+      </div>
+
+    </div>
+
+  </form>
+  <script type="text/javascript">
+
+$(document).on('keydown', 'input[pattern]', function(e){
+  var input = $(this);
+  var oldVal = input.val();
+  var regex = new RegExp(input.attr('pattern'), 'g');
+
+  setTimeout(function(){
+    var newVal = input.val();
+    if(!regex.test(newVal)){
+      input.val(oldVal);
+    }
+  }, 0);
+});
+
+  </script>
+  </body>
+</html>

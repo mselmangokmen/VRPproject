@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <script type="text/javascript" src="{{ url_for('static', filename='js/jquery.min.ajax.js') }}"> </script>
+    <link  href="{{ url_for('static', filename='css/bootstrap.min.css') }}" rel="stylesheet">
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <h1>
+         </h1>
+</head>
+<body>
+    <div  hidden="hidden" id="mesafeCnt">{{mesafeCnt}}</div>
+    <div  hidden="hidden"  id="iterasyonCnt">{{iterasyonCnt}}</div>
+    <div  hidden="hidden"  id="toplamIterasyonCnt">{{toplamIterasyonCnt}}</div>
+    <div  hidden="hidden"  id="tamamlandi">{{tamamlandi}}</div>
+  <form action="{{ url_for('result.main') }}" method="POST" enctype="multipart/form-data">
+    <div class="container">
+      <div class="py-5 text-center">
+        <h2>Çözüm Sayfası</h2>
+
+      </div>
+        <input type="text" hidden="hidden" id="koordinatPath" value="{{koordinatPath}}" name="koordinatPath"/>
+        <input type="text" hidden="hidden" id="filoPath" value="{{filoPath}}" name="filoPath"/>
+      <div class="row">
+  <div class="col-md-4 order-md-2 mb-4">
+          <h4 class="d-flex justify-content-between align-items-center mb-3">
+            <span class="text-muted">İlerleme Bilgileri</span>
+          </h4>
+          <ul class="list-group mb-3">
+            <li class="list-group-item d-flex justify-content-between lh-condensed">
+              <div>
+                <h6 class="my-0">Güncel iterasyon maliyeti</h6>
+              </div>
+              <span class="text-muted">{{maliyet}}</span>
+            </li>
+            <li class="list-group-item d-flex justify-content-between lh-condensed">
+              <div>
+                <h6 class="my-0">En İyi iterasyon maliyeti</h6>
+              </div>
+              <span class="text-muted">{{minMaliyet}}</span>
+            </li>
+                <li class="list-group-item d-flex justify-content-between lh-condensed">
+              <div>
+                <h6 class="my-0">Max iterasyon maliyeti</h6>
+              </div>
+              <span class="text-muted">{{maxMaliyet}}</span>
+            </li>
+          </ul>
+
+        </div>
+
+        <div class="col-md-8 order-md-1">
+
+
+          <form class="needs-validation" novalidate>
+              <div class="mb-3">
+                <label>Mesafe Matrisi</label>
+                  <div class="progress" style="height: 50px;">
+             <div id="pbMesafe" class="progress-bar progress-bar-striped progress-bar-animated" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" ></div>
+                       <small id="pbMesafeTxt" class="justify-content-center d-flex position-absolute w-100" style="font-size: 32px; font-weight:bolder;"></small>
+                  </div>
+              </div>
+                 <div class="mb-3">
+                <label>İterasyon Durumu</label>
+                  <div class="progress" style="height: 50px;">
+             <div id="pbIterasyon" class="progress-bar progress-bar-striped progress-bar-animated bg-success" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" ></div>
+                       <small id="pbIterasyonTxt" class="justify-content-center d-flex position-absolute w-100" style="font-size: 32px; font-weight:bolder;"></small>
+                  </div>
+              </div>
+
+                <div class="mb-3">
+                <label>Toplam İlerleme Durumu</label>
+                  <div class="progress" style="height: 50px;">
+             <div id="pbToplam" class="progress-bar progress-bar-striped progress-bar-animated bg-danger" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100" ></div>
+                       <small id="pbToplamTxt" class="justify-content-center d-flex position-absolute w-100" style="font-size: 32px; font-weight:bolder;"></small>
+                  </div>
+              </div>
+            <hr class="mb-4">
+
+
+            <button class="btn btn-primary btn-lg btn-block" type="submit">Çözümleri Gör</button>
+          </form>
+        </div>
+      </div>
+
+    </div>
+
+  </form>
+</body>
+    <script type="text/javascript">
+$( document ).ready(function() {
+    var str = $( "#mesafeCnt" ).text()+"%";
+    $( "#pbMesafeTxt" ).text(str);
+  $('#pbMesafe').css('width', str);
+
+
+    var str2 = $( "#iterasyonCnt" ).text()+"%";
+
+    $( "#pbIterasyonTxt" ).text(str2);
+  $('#pbIterasyon').css('width', str2);
+
+
+    var str3 = $( "#toplamIterasyonCnt" ).text()+"%";
+
+    $( "#pbToplamTxt" ).text(str3);
+  $('#pbToplam').css('width', str3);
+
+  var tamam=$( "#tamamlandi" ).text();
+  if (tamam=="True"){
+
+           $(':input[type="submit"]').prop('disabled', false);
+
+  }
+  else{
+
+           $(':input[type="submit"]').prop('disabled', true);
+  }
+
+});
+setTimeout(function(){
+   window.location.reload(1);
+}, 1500);
+
+    </script>
+</html>

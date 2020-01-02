@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+    <script type="text/javascript" src="{{ url_for('static', filename='js/jquery-3.4.1.js') }}"> </script>
+    <link  href="{{ url_for('static', filename='css/bootstrap.min.css') }}" rel="stylesheet">
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+           #map {
+        height: 100%;
+        float: left;
+        width: 70%;
+        height: 100%;
+      }
+    </style>
+</head>
+<body>
+<div   id="divIterasyon" hidden="hidden"  >{{iterasyonList}}</div>
+<div   id="maliyetList" hidden="hidden"  >{{maliyetList}}</div>
+<div   id="uygunlukList" hidden="hidden"  >{{uygunlukList}}</div>
+<div   id="minUygDict" hidden="hidden"  >{{minUygDict}}</div>
+<div   id="minMalDict" hidden="hidden"  >{{minMalDict}}</div>
+
+
+  <form action="/ciktiOlustur" method="get" enctype="multipart/form-data">
+    <div class="container">
+      <div class="py-5 text-center">
+
+        <h2>Sonuç Sayfası</h2>
+
+      </div>
+
+      <div class="row">
+
+            <div class="col-md-4 order-md-2 mb-4">
+
+                <table class="table">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Maliyet</th>
+      <th scope="col">Uygunluk Değeri</th>
+    </tr>
+  </thead>
+  <tbody>
+
+
+              {%for i in range(maliyetLen)%}
+
+    <tr>
+              <th scope="row">{{i}}</th>
+      <td>{{maliyetList[i][1]}}</td>
+      <td>{{uygunlukList[i][1]}}</td>
+
+    </tr>
+     {%endfor%}
+
+  </tbody>
+</table>
+
+        </div>
+
+
+        <div class="col-md-8 order-md-1">
+          <h4 class="mb-3">İterasyon Maliyetleri</h4>
+
+          <form class="needs-validation" novalidate>
+
+      <div class="mb-2">
+                <label for="kamyonOption">Kamyon seçiniz:</label>
+                     <select name="kamyonOption" id="kamyonOption" class="form-control">
+
+                         <option  value="all"> Hepsi</option>
+                         {%for result in kamyonList%}
+
+                         <option  value="{{result[0]}}"> {{result[1]}}</option>
+                                    {%endfor%}
+
+                  </select>
+
+
+              </div>
+
+
+            <hr class="mb-4">
+
+            <button class="btn btn-primary btn-lg btn-block" type="submit">KML indir</button>
+          </form>
+        </div>
+
+
+
+      </div>
+
+    </div>
+
+  </form>
+
+
+
+
+<script type="text/javascript">
+
+//var maliyetStr = $( "#maliyetList" ).text();
+//var maliyetJson=JSON.parse(maliyetStr);
+
+</script>
+<!--    <script
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB9ieuSqTWkOu6OzFIF8Bec8_OOPW1MRNM&callback=initMap">
+    </script> -->
+</body>
+</html>

@@ -1,0 +1,1620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="505">
+        <Style id="1006">
+            <LabelStyle id="1007">
+                <color>ff0000ff</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Style id="1124">
+            <LabelStyle id="1125">
+                <color>ff00ff00</color>
+                <colorMode>normal</colorMode>
+                <scale>1</scale>
+            </LabelStyle>
+        </Style>
+        <Placemark id="507">
+            <LineString id="506">
+                <coordinates>31.0483015,38.707255,0.0 31.0491896,38.7074683,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="509">
+            <LineString id="508">
+                <coordinates>31.0491896,38.7074683,0.0 31.0491896,38.7074683,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="511">
+            <LineString id="510">
+                <coordinates>31.0491896,38.7074683,0.0 31.0576162,38.6962574,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="513">
+            <LineString id="512">
+                <coordinates>31.0576162,38.6962574,0.0 31.0576162,38.6962574,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="515">
+            <LineString id="514">
+                <coordinates>31.0576162,38.6962574,0.0 31.057665,38.6961446,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="517">
+            <LineString id="516">
+                <coordinates>31.057665,38.6961446,0.0 31.057665,38.6961446,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="519">
+            <LineString id="518">
+                <coordinates>31.057665,38.6961446,0.0 31.05943049999999,38.6967409,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="521">
+            <LineString id="520">
+                <coordinates>31.05943049999999,38.6967409,0.0 31.05943049999999,38.6967409,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="523">
+            <LineString id="522">
+                <coordinates>31.05943049999999,38.6967409,0.0 31.0590073,38.6959816,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="525">
+            <LineString id="524">
+                <coordinates>31.0590073,38.6959816,0.0 31.0590073,38.6959816,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="527">
+            <LineString id="526">
+                <coordinates>31.0590073,38.6959816,0.0 31.05943049999999,38.6967409,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="529">
+            <LineString id="528">
+                <coordinates>31.05943049999999,38.6967409,0.0 31.05943049999999,38.6967409,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="531">
+            <LineString id="530">
+                <coordinates>31.05943049999999,38.6967409,0.0 31.0596305,38.6969179,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="533">
+            <LineString id="532">
+                <coordinates>31.0596305,38.6969179,0.0 31.0596305,38.6969179,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="535">
+            <LineString id="534">
+                <coordinates>31.0596305,38.6969179,0.0 31.06001419999999,38.6974526,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="537">
+            <LineString id="536">
+                <coordinates>31.06001419999999,38.6974526,0.0 31.06001419999999,38.6974526,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="539">
+            <LineString id="538">
+                <coordinates>31.06001419999999,38.6974526,0.0 31.0600008,38.6964361,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="541">
+            <LineString id="540">
+                <coordinates>31.0600008,38.6964361,0.0 31.0600008,38.6964361,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="543">
+            <LineString id="542">
+                <coordinates>31.0600008,38.6964361,0.0 31.0599054,38.6955938,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="545">
+            <LineString id="544">
+                <coordinates>31.0599054,38.6955938,0.0 31.0599054,38.6955938,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="547">
+            <LineString id="546">
+                <coordinates>31.0599054,38.6955938,0.0 31.0597456,38.6937059,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="549">
+            <LineString id="548">
+                <coordinates>31.0597456,38.6937059,0.0 31.0597456,38.6937059,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="551">
+            <LineString id="550">
+                <coordinates>31.0597456,38.6937059,0.0 31.06001419999999,38.6974526,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="553">
+            <LineString id="552">
+                <coordinates>31.06001419999999,38.6974526,0.0 31.06001419999999,38.6974526,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="555">
+            <LineString id="554">
+                <coordinates>31.06001419999999,38.6974526,0.0 31.0567288,38.6958022,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="557">
+            <LineString id="556">
+                <coordinates>31.0567288,38.6958022,0.0 31.0567288,38.6958022,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="559">
+            <LineString id="558">
+                <coordinates>31.0567288,38.6958022,0.0 31.056427,38.6956177,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="561">
+            <LineString id="560">
+                <coordinates>31.056427,38.6956177,0.0 31.056427,38.6956177,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="563">
+            <LineString id="562">
+                <coordinates>31.056427,38.6956177,0.0 31.0560515,38.6952946,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="565">
+            <LineString id="564">
+                <coordinates>31.0560515,38.6952946,0.0 31.0560515,38.6952946,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="567">
+            <LineString id="566">
+                <coordinates>31.0560515,38.6952946,0.0 31.05531319999999,38.6962508,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="569">
+            <LineString id="568">
+                <coordinates>31.05531319999999,38.6962508,0.0 31.05531319999999,38.6962508,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="571">
+            <LineString id="570">
+                <coordinates>31.05531319999999,38.6962508,0.0 31.0552662,38.6963122,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="573">
+            <LineString id="572">
+                <coordinates>31.0552662,38.6963122,0.0 31.0552662,38.6963122,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="575">
+            <LineString id="574">
+                <coordinates>31.0552662,38.6963122,0.0 31.0557059,38.6957114,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="577">
+            <LineString id="576">
+                <coordinates>31.0557059,38.6957114,0.0 31.0557059,38.6957114,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="579">
+            <LineString id="578">
+                <coordinates>31.0557059,38.6957114,0.0 31.0543872,38.69517320000001,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="581">
+            <LineString id="580">
+                <coordinates>31.0543872,38.69517320000001,0.0 31.0543872,38.69517320000001,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="583">
+            <LineString id="582">
+                <coordinates>31.0543872,38.69517320000001,0.0 31.05206339999999,38.6942446,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="585">
+            <LineString id="584">
+                <coordinates>31.05206339999999,38.6942446,0.0 31.05206339999999,38.6942446,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="587">
+            <LineString id="586">
+                <coordinates>31.05206339999999,38.6942446,0.0 31.0529468,38.6938088,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="589">
+            <LineString id="588">
+                <coordinates>31.0529468,38.6938088,0.0 31.0529468,38.6938088,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="591">
+            <LineString id="590">
+                <coordinates>31.0529468,38.6938088,0.0 31.0529355,38.6938141,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="593">
+            <LineString id="592">
+                <coordinates>31.0529355,38.6938141,0.0 31.0529355,38.6938141,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="595">
+            <LineString id="594">
+                <coordinates>31.0529355,38.6938141,0.0 31.0518594,38.6941978,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="597">
+            <LineString id="596">
+                <coordinates>31.0518594,38.6941978,0.0 31.0518594,38.6941978,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="599">
+            <LineString id="598">
+                <coordinates>31.0518594,38.6941978,0.0 31.0518409,38.6942481,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="601">
+            <LineString id="600">
+                <coordinates>31.0518409,38.6942481,0.0 31.0518409,38.6942481,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="603">
+            <LineString id="602">
+                <coordinates>31.0518409,38.6942481,0.0 31.0518193,38.6943067,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="605">
+            <LineString id="604">
+                <coordinates>31.0518193,38.6943067,0.0 31.0518193,38.6943067,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="607">
+            <LineString id="606">
+                <coordinates>31.0518193,38.6943067,0.0 31.0512972,38.6960795,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="609">
+            <LineString id="608">
+                <coordinates>31.0512972,38.6960795,0.0 31.0512972,38.6960795,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="611">
+            <LineString id="610">
+                <coordinates>31.0512972,38.6960795,0.0 31.0504988,38.6960139,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="613">
+            <LineString id="612">
+                <coordinates>31.0504988,38.6960139,0.0 31.0504988,38.6960139,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="615">
+            <LineString id="614">
+                <coordinates>31.0504988,38.6960139,0.0 31.049639,38.6956445,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="617">
+            <LineString id="616">
+                <coordinates>31.049639,38.6956445,0.0 31.049639,38.6956445,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="619">
+            <LineString id="618">
+                <coordinates>31.049639,38.6956445,0.0 31.0490872,38.6956304,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="621">
+            <LineString id="620">
+                <coordinates>31.0490872,38.6956304,0.0 31.0490872,38.6956304,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="623">
+            <LineString id="622">
+                <coordinates>31.0490872,38.6956304,0.0 31.0490782,38.6953191,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="625">
+            <LineString id="624">
+                <coordinates>31.0490782,38.6953191,0.0 31.0490782,38.6953191,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="627">
+            <LineString id="626">
+                <coordinates>31.0490782,38.6953191,0.0 31.0490749,38.6952068,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="629">
+            <LineString id="628">
+                <coordinates>31.0490749,38.6952068,0.0 31.0490749,38.6952068,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="631">
+            <LineString id="630">
+                <coordinates>31.0490749,38.6952068,0.0 31.0491946,38.6952058,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="633">
+            <LineString id="632">
+                <coordinates>31.0491946,38.6952058,0.0 31.0491946,38.6952058,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="635">
+            <LineString id="634">
+                <coordinates>31.0491946,38.6952058,0.0 31.0502712,38.6947822,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="637">
+            <LineString id="636">
+                <coordinates>31.0502712,38.6947822,0.0 31.0502712,38.6947822,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="639">
+            <LineString id="638">
+                <coordinates>31.0502712,38.6947822,0.0 31.0491946,38.6952058,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="641">
+            <LineString id="640">
+                <coordinates>31.0491946,38.6952058,0.0 31.0491946,38.6952058,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="643">
+            <LineString id="642">
+                <coordinates>31.0491946,38.6952058,0.0 31.0482466,38.6952307,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="645">
+            <LineString id="644">
+                <coordinates>31.0482466,38.6952307,0.0 31.0482466,38.6952307,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="647">
+            <LineString id="646">
+                <coordinates>31.0482466,38.6952307,0.0 31.0481321,38.6951191,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="649">
+            <LineString id="648">
+                <coordinates>31.0481321,38.6951191,0.0 31.0481321,38.6951191,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="651">
+            <LineString id="650">
+                <coordinates>31.0481321,38.6951191,0.0 31.048123,38.6945899,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="653">
+            <LineString id="652">
+                <coordinates>31.048123,38.6945899,0.0 31.048123,38.6945899,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="655">
+            <LineString id="654">
+                <coordinates>31.048123,38.6945899,0.0 31.0475941,38.6945644,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="657">
+            <LineString id="656">
+                <coordinates>31.0475941,38.6945644,0.0 31.0475941,38.6945644,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="659">
+            <LineString id="658">
+                <coordinates>31.0475941,38.6945644,0.0 31.0475941,38.6945644,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="661">
+            <LineString id="660">
+                <coordinates>31.0475941,38.6945644,0.0 31.0475941,38.6945644,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="663">
+            <LineString id="662">
+                <coordinates>31.0475941,38.6945644,0.0 31.0472998,38.69455019999999,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="665">
+            <LineString id="664">
+                <coordinates>31.0472998,38.69455019999999,0.0 31.0472998,38.69455019999999,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="667">
+            <LineString id="666">
+                <coordinates>31.0472998,38.69455019999999,0.0 31.0472919,38.6953725,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="669">
+            <LineString id="668">
+                <coordinates>31.0472919,38.6953725,0.0 31.0472919,38.6953725,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="671">
+            <LineString id="670">
+                <coordinates>31.0472919,38.6953725,0.0 31.0481375,38.6954008,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="673">
+            <LineString id="672">
+                <coordinates>31.0481375,38.6954008,0.0 31.0481375,38.6954008,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="675">
+            <LineString id="674">
+                <coordinates>31.0481375,38.6954008,0.0 31.0481321,38.6951191,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="677">
+            <LineString id="676">
+                <coordinates>31.0481321,38.6951191,0.0 31.0481321,38.6951191,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="679">
+            <LineString id="678">
+                <coordinates>31.0481321,38.6951191,0.0 31.0481118,38.6939095,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="681">
+            <LineString id="680">
+                <coordinates>31.0481118,38.6939095,0.0 31.0481118,38.6939095,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="683">
+            <LineString id="682">
+                <coordinates>31.0481118,38.6939095,0.0 31.0480933,38.6928366,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="685">
+            <LineString id="684">
+                <coordinates>31.0480933,38.6928366,0.0 31.0480933,38.6928366,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="687">
+            <LineString id="686">
+                <coordinates>31.0480933,38.6928366,0.0 31.0487498,38.693084,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="689">
+            <LineString id="688">
+                <coordinates>31.0487498,38.693084,0.0 31.0487498,38.693084,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="691">
+            <LineString id="690">
+                <coordinates>31.0487498,38.693084,0.0 31.0487548,38.6929307,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="693">
+            <LineString id="692">
+                <coordinates>31.0487548,38.6929307,0.0 31.0487548,38.6929307,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="695">
+            <LineString id="694">
+                <coordinates>31.0487548,38.6929307,0.0 31.0487938,38.6910779,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="697">
+            <LineString id="696">
+                <coordinates>31.0487938,38.6910779,0.0 31.0487938,38.6910779,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="699">
+            <LineString id="698">
+                <coordinates>31.0487938,38.6910779,0.0 31.048923,38.6897303,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="701">
+            <LineString id="700">
+                <coordinates>31.048923,38.6897303,0.0 31.048923,38.6897303,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="703">
+            <LineString id="702">
+                <coordinates>31.048923,38.6897303,0.0 31.0487848,38.6904914,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="705">
+            <LineString id="704">
+                <coordinates>31.0487848,38.6904914,0.0 31.0487848,38.6904914,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="707">
+            <LineString id="706">
+                <coordinates>31.0487848,38.6904914,0.0 31.0482257,38.690503,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="709">
+            <LineString id="708">
+                <coordinates>31.0482257,38.690503,0.0 31.0482257,38.690503,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="711">
+            <LineString id="710">
+                <coordinates>31.0482257,38.690503,0.0 31.0481877,38.69195,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="713">
+            <LineString id="712">
+                <coordinates>31.0481877,38.69195,0.0 31.0481877,38.69195,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="715">
+            <LineString id="714">
+                <coordinates>31.0481877,38.69195,0.0 31.0481999,38.6925798,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="717">
+            <LineString id="716">
+                <coordinates>31.0481999,38.6925798,0.0 31.0481999,38.6925798,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="719">
+            <LineString id="718">
+                <coordinates>31.0481999,38.6925798,0.0 31.048201,38.6928576,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="721">
+            <LineString id="720">
+                <coordinates>31.048201,38.6928576,0.0 31.048201,38.6928576,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="723">
+            <LineString id="722">
+                <coordinates>31.048201,38.6928576,0.0 31.0466863,38.6923686,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="725">
+            <LineString id="724">
+                <coordinates>31.0466863,38.6923686,0.0 31.0466863,38.6923686,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="727">
+            <LineString id="726">
+                <coordinates>31.0466863,38.6923686,0.0 31.0466471,38.6933302,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="729">
+            <LineString id="728">
+                <coordinates>31.0466471,38.6933302,0.0 31.0466471,38.6933302,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="731">
+            <LineString id="730">
+                <coordinates>31.0466471,38.6933302,0.0 31.0466095,38.6945239,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="733">
+            <LineString id="732">
+                <coordinates>31.0466095,38.6945239,0.0 31.0466095,38.6945239,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="735">
+            <LineString id="734">
+                <coordinates>31.0466095,38.6945239,0.0 31.0459545,38.69450090000001,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="737">
+            <LineString id="736">
+                <coordinates>31.0459545,38.69450090000001,0.0 31.0459545,38.69450090000001,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="739">
+            <LineString id="738">
+                <coordinates>31.0459545,38.69450090000001,0.0 31.0452066,38.694472,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="741">
+            <LineString id="740">
+                <coordinates>31.0452066,38.694472,0.0 31.0452066,38.694472,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="743">
+            <LineString id="742">
+                <coordinates>31.0452066,38.694472,0.0 31.0458573,38.6920855,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="745">
+            <LineString id="744">
+                <coordinates>31.0458573,38.6920855,0.0 31.0458573,38.6920855,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="747">
+            <LineString id="746">
+                <coordinates>31.0458573,38.6920855,0.0 31.0450798,38.6917799,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="749">
+            <LineString id="748">
+                <coordinates>31.0450798,38.6917799,0.0 31.0450798,38.6917799,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="751">
+            <LineString id="750">
+                <coordinates>31.0450798,38.6917799,0.0 31.0448838,38.6916744,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="753">
+            <LineString id="752">
+                <coordinates>31.0448838,38.6916744,0.0 31.0448838,38.6916744,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="755">
+            <LineString id="754">
+                <coordinates>31.0448838,38.6916744,0.0 31.0429996,38.6937612,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="757">
+            <LineString id="756">
+                <coordinates>31.0429996,38.6937612,0.0 31.0429996,38.6937612,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="759">
+            <LineString id="758">
+                <coordinates>31.0429996,38.6937612,0.0 31.04491569999999,38.69163,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="761">
+            <LineString id="760">
+                <coordinates>31.04491569999999,38.69163,0.0 31.04491569999999,38.69163,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="763">
+            <LineString id="762">
+                <coordinates>31.04491569999999,38.69163,0.0 31.0448838,38.6916744,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="765">
+            <LineString id="764">
+                <coordinates>31.0448838,38.6916744,0.0 31.0448838,38.6916744,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="767">
+            <LineString id="766">
+                <coordinates>31.0448838,38.6916744,0.0 31.0453397,38.6919075,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="769">
+            <LineString id="768">
+                <coordinates>31.0453397,38.6919075,0.0 31.0453397,38.6919075,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="771">
+            <LineString id="770">
+                <coordinates>31.0453397,38.6919075,0.0 31.0458573,38.6920855,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="773">
+            <LineString id="772">
+                <coordinates>31.0458573,38.6920855,0.0 31.0458573,38.6920855,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="775">
+            <LineString id="774">
+                <coordinates>31.0458573,38.6920855,0.0 31.046407,38.6910998,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="777">
+            <LineString id="776">
+                <coordinates>31.046407,38.6910998,0.0 31.046407,38.6910998,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="779">
+            <LineString id="778">
+                <coordinates>31.046407,38.6910998,0.0 31.0463897,38.690968,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="781">
+            <LineString id="780">
+                <coordinates>31.0463897,38.690968,0.0 31.0463897,38.690968,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="783">
+            <LineString id="782">
+                <coordinates>31.0463897,38.690968,0.0 31.0469111,38.6908903,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="785">
+            <LineString id="784">
+                <coordinates>31.0469111,38.6908903,0.0 31.0469111,38.6908903,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="787">
+            <LineString id="786">
+                <coordinates>31.0469111,38.6908903,0.0 31.0463897,38.690968,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="789">
+            <LineString id="788">
+                <coordinates>31.0463897,38.690968,0.0 31.0463897,38.690968,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="791">
+            <LineString id="790">
+                <coordinates>31.0463897,38.690968,0.0 31.0458573,38.6920855,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="793">
+            <LineString id="792">
+                <coordinates>31.0458573,38.6920855,0.0 31.0458573,38.6920855,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="795">
+            <LineString id="794">
+                <coordinates>31.0458573,38.6920855,0.0 31.0480933,38.6928366,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="797">
+            <LineString id="796">
+                <coordinates>31.0480933,38.6928366,0.0 31.0480933,38.6928366,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="799">
+            <LineString id="798">
+                <coordinates>31.0480933,38.6928366,0.0 31.04816839999999,38.6892692,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="801">
+            <LineString id="800">
+                <coordinates>31.04816839999999,38.6892692,0.0 31.04816839999999,38.6892692,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="803">
+            <LineString id="802">
+                <coordinates>31.04816839999999,38.6892692,0.0 31.0481538,38.6888194,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="805">
+            <LineString id="804">
+                <coordinates>31.0481538,38.6888194,0.0 31.0481538,38.6888194,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="807">
+            <LineString id="806">
+                <coordinates>31.0481538,38.6888194,0.0 31.0481076,38.6874055,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="809">
+            <LineString id="808">
+                <coordinates>31.0481076,38.6874055,0.0 31.0481076,38.6874055,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="811">
+            <LineString id="810">
+                <coordinates>31.0481076,38.6874055,0.0 31.048146,38.6885534,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="813">
+            <LineString id="812">
+                <coordinates>31.048146,38.6885534,0.0 31.048146,38.6885534,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="815">
+            <LineString id="814">
+                <coordinates>31.048146,38.6885534,0.0 31.0475247,38.6883974,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="817">
+            <LineString id="816">
+                <coordinates>31.0475247,38.6883974,0.0 31.0475247,38.6883974,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="819">
+            <LineString id="818">
+                <coordinates>31.0475247,38.6883974,0.0 31.0472073,38.6890448,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="821">
+            <LineString id="820">
+                <coordinates>31.0472073,38.6890448,0.0 31.0472073,38.6890448,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="823">
+            <LineString id="822">
+                <coordinates>31.0472073,38.6890448,0.0 31.0474771,38.6891261,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="825">
+            <LineString id="824">
+                <coordinates>31.0474771,38.6891261,0.0 31.0474771,38.6891261,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="827">
+            <LineString id="826">
+                <coordinates>31.0474771,38.6891261,0.0 31.0479962,38.68930230000001,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="829">
+            <LineString id="828">
+                <coordinates>31.0479962,38.68930230000001,0.0 31.0479962,38.68930230000001,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="831">
+            <LineString id="830">
+                <coordinates>31.0479962,38.68930230000001,0.0 31.0481692,38.6893598,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="833">
+            <LineString id="832">
+                <coordinates>31.0481692,38.6893598,0.0 31.0481692,38.6893598,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="835">
+            <LineString id="834">
+                <coordinates>31.0481692,38.6893598,0.0 31.0482257,38.690503,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="837">
+            <LineString id="836">
+                <coordinates>31.0482257,38.690503,0.0 31.0482257,38.690503,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="839">
+            <LineString id="838">
+                <coordinates>31.0482257,38.690503,0.0 31.0509228,38.6900667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="841">
+            <LineString id="840">
+                <coordinates>31.0509228,38.6900667,0.0 31.0509228,38.6900667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="843">
+            <LineString id="842">
+                <coordinates>31.0509228,38.6900667,0.0 31.0509242,38.6903999,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="845">
+            <LineString id="844">
+                <coordinates>31.0509242,38.6903999,0.0 31.0509242,38.6903999,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="847">
+            <LineString id="846">
+                <coordinates>31.0509242,38.6903999,0.0 31.0509163,38.6906438,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="849">
+            <LineString id="848">
+                <coordinates>31.0509163,38.6906438,0.0 31.0509163,38.6906438,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="851">
+            <LineString id="850">
+                <coordinates>31.0509163,38.6906438,0.0 31.0509135,38.6907504,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="853">
+            <LineString id="852">
+                <coordinates>31.0509135,38.6907504,0.0 31.0509135,38.6907504,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="855">
+            <LineString id="854">
+                <coordinates>31.0509135,38.6907504,0.0 31.0509228,38.6900667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="857">
+            <LineString id="856">
+                <coordinates>31.0509228,38.6900667,0.0 31.0509228,38.6900667,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="859">
+            <LineString id="858">
+                <coordinates>31.0509228,38.6900667,0.0 31.0512874,38.6900878,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="861">
+            <LineString id="860">
+                <coordinates>31.0512874,38.6900878,0.0 31.0512874,38.6900878,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="863">
+            <LineString id="862">
+                <coordinates>31.0512874,38.6900878,0.0 31.0516685,38.6901088,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="865">
+            <LineString id="864">
+                <coordinates>31.0516685,38.6901088,0.0 31.0516685,38.6901088,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="867">
+            <LineString id="866">
+                <coordinates>31.0516685,38.6901088,0.0 31.0513846,38.69009339999999,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="869">
+            <LineString id="868">
+                <coordinates>31.0513846,38.69009339999999,0.0 31.0513846,38.69009339999999,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="871">
+            <LineString id="870">
+                <coordinates>31.0513846,38.69009339999999,0.0 31.0513365,38.6904835,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="873">
+            <LineString id="872">
+                <coordinates>31.0513365,38.6904835,0.0 31.0513365,38.6904835,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="875">
+            <LineString id="874">
+                <coordinates>31.0513365,38.6904835,0.0 31.0512922,38.6908424,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="877">
+            <LineString id="876">
+                <coordinates>31.0512922,38.6908424,0.0 31.0512922,38.6908424,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="879">
+            <LineString id="878">
+                <coordinates>31.0512922,38.6908424,0.0 31.05128729999999,38.6908819,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="881">
+            <LineString id="880">
+                <coordinates>31.05128729999999,38.6908819,0.0 31.05128729999999,38.6908819,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="883">
+            <LineString id="882">
+                <coordinates>31.05128729999999,38.6908819,0.0 31.051617,38.6909011,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="885">
+            <LineString id="884">
+                <coordinates>31.051617,38.6909011,0.0 31.051617,38.6909011,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="887">
+            <LineString id="886">
+                <coordinates>31.051617,38.6909011,0.0 31.05128729999999,38.6908819,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="889">
+            <LineString id="888">
+                <coordinates>31.05128729999999,38.6908819,0.0 31.05128729999999,38.6908819,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="891">
+            <LineString id="890">
+                <coordinates>31.05128729999999,38.6908819,0.0 31.0516621,38.69125409999999,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="893">
+            <LineString id="892">
+                <coordinates>31.0516621,38.69125409999999,0.0 31.0516621,38.69125409999999,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="895">
+            <LineString id="894">
+                <coordinates>31.0516621,38.69125409999999,0.0 31.05171559999999,38.6912368,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="897">
+            <LineString id="896">
+                <coordinates>31.05171559999999,38.6912368,0.0 31.05171559999999,38.6912368,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="899">
+            <LineString id="898">
+                <coordinates>31.05171559999999,38.6912368,0.0 31.0518927,38.6913254,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="901">
+            <LineString id="900">
+                <coordinates>31.0518927,38.6913254,0.0 31.0518927,38.6913254,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="903">
+            <LineString id="902">
+                <coordinates>31.0518927,38.6913254,0.0 31.05234759999999,38.6914428,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="905">
+            <LineString id="904">
+                <coordinates>31.05234759999999,38.6914428,0.0 31.05234759999999,38.6914428,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="907">
+            <LineString id="906">
+                <coordinates>31.05234759999999,38.6914428,0.0 31.05234759999999,38.6914428,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="909">
+            <LineString id="908">
+                <coordinates>31.05234759999999,38.6914428,0.0 31.05234759999999,38.6914428,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="911">
+            <LineString id="910">
+                <coordinates>31.05234759999999,38.6914428,0.0 31.0528834,38.6915692,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="913">
+            <LineString id="912">
+                <coordinates>31.0528834,38.6915692,0.0 31.0528834,38.6915692,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="915">
+            <LineString id="914">
+                <coordinates>31.0528834,38.6915692,0.0 31.0545472,38.6867496,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="917">
+            <LineString id="916">
+                <coordinates>31.0545472,38.6867496,0.0 31.0545472,38.6867496,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="919">
+            <LineString id="918">
+                <coordinates>31.0545472,38.6867496,0.0 31.0532699,38.6898953,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="921">
+            <LineString id="920">
+                <coordinates>31.0532699,38.6898953,0.0 31.0532699,38.6898953,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="923">
+            <LineString id="922">
+                <coordinates>31.0532699,38.6898953,0.0 31.0519996,38.6896809,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="925">
+            <LineString id="924">
+                <coordinates>31.0519996,38.6896809,0.0 31.0519996,38.6896809,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="927">
+            <LineString id="926">
+                <coordinates>31.0519996,38.6896809,0.0 31.0489636,38.6894462,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="929">
+            <LineString id="928">
+                <coordinates>31.0489636,38.6894462,0.0 31.0489636,38.6894462,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="931">
+            <LineString id="930">
+                <coordinates>31.0489636,38.6894462,0.0 31.0504386,38.6852519,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="933">
+            <LineString id="932">
+                <coordinates>31.0504386,38.6852519,0.0 31.0504386,38.6852519,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="935">
+            <LineString id="934">
+                <coordinates>31.0504386,38.6852519,0.0 31.05215129999999,38.6813132,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="937">
+            <LineString id="936">
+                <coordinates>31.05215129999999,38.6813132,0.0 31.05215129999999,38.6813132,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="939">
+            <LineString id="938">
+                <coordinates>31.05215129999999,38.6813132,0.0 31.052351,38.68093289999999,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="941">
+            <LineString id="940">
+                <coordinates>31.052351,38.68093289999999,0.0 31.052351,38.68093289999999,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="943">
+            <LineString id="942">
+                <coordinates>31.052351,38.68093289999999,0.0 31.052847,38.6795219,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="945">
+            <LineString id="944">
+                <coordinates>31.052847,38.6795219,0.0 31.052847,38.6795219,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="947">
+            <LineString id="946">
+                <coordinates>31.052847,38.6795219,0.0 31.0499112,38.6859157,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="949">
+            <LineString id="948">
+                <coordinates>31.0499112,38.6859157,0.0 31.0499112,38.6859157,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="951">
+            <LineString id="950">
+                <coordinates>31.0499112,38.6859157,0.0 31.0482527,38.6857774,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="953">
+            <LineString id="952">
+                <coordinates>31.0482527,38.6857774,0.0 31.0482527,38.6857774,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="955">
+            <LineString id="954">
+                <coordinates>31.0482527,38.6857774,0.0 31.0482547,38.6856783,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="957">
+            <LineString id="956">
+                <coordinates>31.0482547,38.6856783,0.0 31.0482547,38.6856783,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="959">
+            <LineString id="958">
+                <coordinates>31.0482547,38.6856783,0.0 31.0485108,38.6852278,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="961">
+            <LineString id="960">
+                <coordinates>31.0485108,38.6852278,0.0 31.0485108,38.6852278,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="963">
+            <LineString id="962">
+                <coordinates>31.0485108,38.6852278,0.0 31.0482547,38.6856783,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="965">
+            <LineString id="964">
+                <coordinates>31.0482547,38.6856783,0.0 31.0482547,38.6856783,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="967">
+            <LineString id="966">
+                <coordinates>31.0482547,38.6856783,0.0 31.048146,38.6885534,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="969">
+            <LineString id="968">
+                <coordinates>31.048146,38.6885534,0.0 31.048146,38.6885534,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="971">
+            <LineString id="970">
+                <coordinates>31.048146,38.6885534,0.0 31.0475247,38.6883974,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="973">
+            <LineString id="972">
+                <coordinates>31.0475247,38.6883974,0.0 31.0475247,38.6883974,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="975">
+            <LineString id="974">
+                <coordinates>31.0475247,38.6883974,0.0 31.0453397,38.6919075,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="977">
+            <LineString id="976">
+                <coordinates>31.0453397,38.6919075,0.0 31.0453397,38.6919075,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="979">
+            <LineString id="978">
+                <coordinates>31.0453397,38.6919075,0.0 31.0479413,38.6807684,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="981">
+            <LineString id="980">
+                <coordinates>31.0479413,38.6807684,0.0 31.0479413,38.6807684,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="983">
+            <LineString id="982">
+                <coordinates>31.0479413,38.6807684,0.0 31.0475899,38.6807847,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="985">
+            <LineString id="984">
+                <coordinates>31.0475899,38.6807847,0.0 31.0475899,38.6807847,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="987">
+            <LineString id="986">
+                <coordinates>31.0475899,38.6807847,0.0 31.0475906,38.6809443,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="989">
+            <LineString id="988">
+                <coordinates>31.0475906,38.6809443,0.0 31.0475906,38.6809443,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="991">
+            <LineString id="990">
+                <coordinates>31.0475906,38.6809443,0.0 31.0473276,38.6811595,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="993">
+            <LineString id="992">
+                <coordinates>31.0473276,38.6811595,0.0 31.0473276,38.6811595,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="995">
+            <LineString id="994">
+                <coordinates>31.0473276,38.6811595,0.0 31.0476113,38.6818456,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="997">
+            <LineString id="996">
+                <coordinates>31.0476113,38.6818456,0.0 31.0476113,38.6818456,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="999">
+            <LineString id="998">
+                <coordinates>31.0476113,38.6818456,0.0 31.0476257,38.6823325,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="1001">
+            <LineString id="1000">
+                <coordinates>31.0476257,38.6823325,0.0 31.0476257,38.6823325,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="1003">
+            <LineString id="1002">
+                <coordinates>31.0476257,38.6823325,0.0 31.0468268,38.6823497,0.0</coordinates>
+            </LineString>
+        </Placemark>
+        <Placemark id="1005">
+            <name>kova 0</name>
+            <styleUrl>#1006</styleUrl>
+            <Point id="1004">
+                <coordinates>31.04829,38.70728,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1009">
+            <name>kova 1088</name>
+            <Point id="1008">
+                <coordinates>31.05969,38.69371,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1011">
+            <name>kova 1089</name>
+            <Point id="1010">
+                <coordinates>31.05982,38.6956,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1013">
+            <name>kova 1087</name>
+            <Point id="1012">
+                <coordinates>31.05895,38.696,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1015">
+            <name>kova 1090</name>
+            <Point id="1014">
+                <coordinates>31.05994,38.69644,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1017">
+            <name>kova 1085</name>
+            <Point id="1016">
+                <coordinates>31.05958,38.69694,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1019">
+            <name>kova 1086</name>
+            <Point id="1018">
+                <coordinates>31.05764,38.69626,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1021">
+            <name>kova 1100</name>
+            <Point id="1020">
+                <coordinates>31.05669,38.69585,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1023">
+            <name>kova 1101</name>
+            <Point id="1022">
+                <coordinates>31.0564,38.69564,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1025">
+            <name>kova 438</name>
+            <Point id="1024">
+                <coordinates>31.05529,38.69624,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1027">
+            <name>kova 1082</name>
+            <Point id="1026">
+                <coordinates>31.05524,38.6963,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1029">
+            <name>kova 1081</name>
+            <Point id="1028">
+                <coordinates>31.05441,38.69514,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1031">
+            <name>kova 1102</name>
+            <Point id="1030">
+                <coordinates>31.05294,38.69382,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1033">
+            <name>kova 1079</name>
+            <Point id="1032">
+                <coordinates>31.05294,38.6938,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1035">
+            <name>kova 437</name>
+            <Point id="1034">
+                <coordinates>31.05176,38.69423,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1037">
+            <name>kova 1080</name>
+            <Point id="1036">
+                <coordinates>31.0517,38.69428,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1039">
+            <name>kova 443</name>
+            <Point id="1038">
+                <coordinates>31.05026,38.69476,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1041">
+            <name>kova 444</name>
+            <Point id="1040">
+                <coordinates>31.04964,38.69562,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1043">
+            <name>kova 445</name>
+            <Point id="1042">
+                <coordinates>31.04903,38.69532,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1045">
+            <name>kova 1115</name>
+            <Point id="1044">
+                <coordinates>31.04805,38.69512,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1047">
+            <name>kova 356</name>
+            <Point id="1046">
+                <coordinates>31.0476,38.69449,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1049">
+            <name>kova 1116</name>
+            <Point id="1048">
+                <coordinates>31.04806,38.69391,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1051">
+            <name>kova 436</name>
+            <Point id="1050">
+                <coordinates>31.04872,38.69293,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1053">
+            <name>kova 1124</name>
+            <Point id="1052">
+                <coordinates>31.04818,38.69258,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1055">
+            <name>kova 1123</name>
+            <Point id="1054">
+                <coordinates>31.04819,38.69195,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1057">
+            <name>kova 435</name>
+            <Point id="1056">
+                <coordinates>31.04874,38.69108,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1059">
+            <name>kova 353</name>
+            <Point id="1058">
+                <coordinates>31.0469,38.69086,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1061">
+            <name>kova 352</name>
+            <Point id="1060">
+                <coordinates>31.04641,38.6911,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1063">
+            <name>kova 271</name>
+            <Point id="1062">
+                <coordinates>31.04487,38.69161,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1065">
+            <name>kova 354</name>
+            <Point id="1064">
+                <coordinates>31.04664,38.69333,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1067">
+            <name>kova 351</name>
+            <Point id="1066">
+                <coordinates>31.04595,38.69449,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1069">
+            <name>kova 270</name>
+            <Point id="1068">
+                <coordinates>31.04287,38.69369,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1071">
+            <name>kova 1120</name>
+            <Point id="1070">
+                <coordinates>31.04805,38.68738,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1073">
+            <name>kova 1121</name>
+            <Point id="1072">
+                <coordinates>31.04812,38.68882,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1075">
+            <name>kova 1118</name>
+            <Point id="1074">
+                <coordinates>31.04803,38.68925,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1077">
+            <name>kova 1122</name>
+            <Point id="1076">
+                <coordinates>31.04813,38.68927,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1079">
+            <name>kova 1117</name>
+            <Point id="1078">
+                <coordinates>31.04749,38.6891,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1081">
+            <name>kova 434</name>
+            <Point id="1080">
+                <coordinates>31.04892,38.68973,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1083">
+            <name>kova 1103</name>
+            <Point id="1082">
+                <coordinates>31.05089,38.69007,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1085">
+            <name>kova 1106</name>
+            <Point id="1084">
+                <coordinates>31.05129,38.69006,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1087">
+            <name>kova 1107</name>
+            <Point id="1086">
+                <coordinates>31.05167,38.69017,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1089">
+            <name>kova 1114</name>
+            <Point id="1088">
+                <coordinates>31.05129,38.69048,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1091">
+            <name>kova 1104</name>
+            <Point id="1090">
+                <coordinates>31.05088,38.6904,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1093">
+            <name>kova 1105</name>
+            <Point id="1092">
+                <coordinates>31.05089,38.69075,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1095">
+            <name>kova 1113</name>
+            <Point id="1094">
+                <coordinates>31.05126,38.69084,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1097">
+            <name>kova 1108</name>
+            <Point id="1096">
+                <coordinates>31.05162,38.69087,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1099">
+            <name>kova 1109</name>
+            <Point id="1098">
+                <coordinates>31.05166,38.69125,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1101">
+            <name>kova 1110</name>
+            <Point id="1100">
+                <coordinates>31.05189,38.69133,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1103">
+            <name>kova 1111</name>
+            <Point id="1102">
+                <coordinates>31.05234,38.69146,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1105">
+            <name>kova 1112</name>
+            <Point id="1104">
+                <coordinates>31.05234,38.69146,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1107">
+            <name>kova 1077</name>
+            <Point id="1106">
+                <coordinates>31.05041,38.68524,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1109">
+            <name>kova 1119</name>
+            <Point id="1108">
+                <coordinates>31.04864,38.68518,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1111">
+            <name>kova 1078</name>
+            <Point id="1110">
+                <coordinates>31.05447,38.68673,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1113">
+            <name>kova 1074</name>
+            <Point id="1112">
+                <coordinates>31.05228,38.68091,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1115">
+            <name>kova 1075</name>
+            <Point id="1114">
+                <coordinates>31.05211,38.6813,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1117">
+            <name>kova 1073</name>
+            <Point id="1116">
+                <coordinates>31.05279,38.67951,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1119">
+            <name>kova 273</name>
+            <Point id="1118">
+                <coordinates>31.04742,38.68121,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1121">
+            <name>kova 272</name>
+            <Point id="1120">
+                <coordinates>31.04684,38.68254,0.0</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="1123">
+            <name>kova 1076</name>
+            <styleUrl>#1124</styleUrl>
+            <Point id="1122">
+                <coordinates>31.05139,38.68344,0.0</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
