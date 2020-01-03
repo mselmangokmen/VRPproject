@@ -7,3 +7,6 @@ Sample coordinate file:
 https://yadi.sk/i/dwAsXru6NYKuNw
 Sample fleet file:
 https://yadi.sk/i/SrkJCZZsWBDFaA
+
+The project outputs the path as KML file.
+
