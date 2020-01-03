@@ -1,5 +1,5 @@
 
-from Kamyon import  Kamyon
+from Truck import  Kamyon
 class Filo:
     def __init__(self,adet,merkezNode):
         self.adet = adet

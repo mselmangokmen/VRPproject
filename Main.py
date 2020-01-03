@@ -1,9 +1,9 @@
 import sys
 
-from Kamyon import Kamyon
+from Truck import Kamyon
 from myNode import myNode
 import ctypes as c
-from iterasyon import iterasyon
+from Iteration import iterasyon
 import numpy as np
 import multiprocessing as mp
 from multiprocessing import Process, Value, Manager, Queue
