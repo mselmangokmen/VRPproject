@@ -10,3 +10,5 @@ https://yadi.sk/i/SrkJCZZsWBDFaA
 
 The project outputs the path as KML file.
 
+Please contact for any question:
+mselmangokmen@yandex.com
