@@ -145,7 +145,7 @@ def ciktiOlustur():
             if len(rotaList) <= 1:
                 return "hata"
 
-        gmaps = googlemaps.Client(key='AIzaSyB9ieuSqTWkOu6OzFIF8Bec8_OOPW1MRNM')
+        gmaps = googlemaps.Client(key='cilent key')
 
         legList = list()
         k = 20
